@@ -1,0 +1,19 @@
+{
+    "name": "harinjatovo/ag-tech",
+    "description": "presentation age-tech",
+    "type": "project",
+    "authors": [
+        {
+            "name": "harinjatovo.fetra",
+            "email": "harinjatovo.fetra@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ag\\Tech\\": "src/"
+           
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
