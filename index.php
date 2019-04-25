@@ -146,7 +146,7 @@
                     <br>
                     <div class="news_content">
                         <h5> Fetra HARINJATOVO</h5><br>
-                        <h5>Lead Developpeur</h5>
+                        <h5>Développeur </h5>
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
                     <br>
                     <div class="news_content">
                         <h5>Hery RASOLONJATOVO</h5><br>
-                        <h5>Developpeur full-stack et web Designer</h5>
+                        <h5>Développeur full-stack et web Designer</h5>
                     </div>
                 </div>
             </div>
@@ -170,7 +170,7 @@
                     <br>
                     <div class="news_content">
                         <h5>Manankasina SOLOFONIAINA</h5><br>
-                        <h5>Webmaster</h5>
+                        <h5>Chef de projet</h5>
                     </div>
                 </div>
             </div>
@@ -199,19 +199,19 @@
                         <br>
                         <div class="news_content">
                             <h5>Tokiniaina MINOHASINA</h5><br>
-                            <h5>Business Devevoppeur</h5>
+                            <h5>Business Developer</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="latest_news_item">
                         <div class="news_image">
-                            <img src="sary/r.jpg" height="300px" width="300px">
+                            <img src="sary/toky.jpg" height="300px" width="300px">
                         </div>
                         <br>
                         <div class="news_content">
-                            <h5>commercial 2</h5><br>
-                            <h5>commercial 2</h5>
+                            <h5>Tokiniaina MINOHASINA</h5><br>
+                            <h5>Business Developer</h5>
                         </div>
                     </div>
                 </div>
